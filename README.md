@@ -9,7 +9,7 @@ Abbiamo visto qualcosa di particolare che possiamo usare?
 
 ## svolgimento
 
-- creare un for the stampi i numeri d a 1 a 100 consecutivamente
+- creare un for che stampi i numeri d a 1 a 100 consecutivamente ma che per i multipli di 3 stampi "Fizz" al posto del numero e per i multipli di 5 stampi "Buzz".
 
 - assegnare delle variabili a fizz e Buzz
 
