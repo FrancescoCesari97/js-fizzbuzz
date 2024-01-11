@@ -21,7 +21,7 @@ for (let i = 1; i <= 100; i++) {
   cardsRow.innerHTML += `
      <div class="col-2">
         <div class="card p-3 ${textNumber}">
-          <h3 class=" text-center"> ${textNumber}<h3/>
+          <h4 class=" text-center"> ${textNumber}<h4/>
         <div/>
 
      <div/>
