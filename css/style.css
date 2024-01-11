@@ -42,6 +42,21 @@ a{
 
 .debug{
     min-height: 80px;
-    background-color: rgb(216, 163, 98);
+   
     padding: 2rem;
+}
+
+
+
+
+.Fizzbuzz{
+    background-color:#f0466f ;
+}
+
+.Fizz{
+    background-color:#0cd6a1 ;
+}
+
+.Buzz{
+    background-color:#ffd166 ;
 }
